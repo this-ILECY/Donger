@@ -1,6 +1,0 @@
-﻿services:
-  donger:
-    image: donger
-    build:
-      context: .
-      dockerfile: Donger/Dockerfile
